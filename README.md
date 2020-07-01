@@ -34,13 +34,13 @@ Help Me Find a bugs
   #__How to use__?
   
   eg. ToggleButton(
-                      onPressed: () {},
-                      value: true,
-                      borderRadius: 10,
-                      mainText: 'Turn On / Off',
-                      subText: 'Lorem ipsum',
-                      fontColor: Colors.white,
-                      background: Colors.blueAccent,
-                      onEnabledColor: Colors.green,
-                      onDisabledColor: Colors.redAccent,
-      ),
+onPressed: () {},
+value: true,
+borderRadius: 10,
+mainText: 'Turn On / Off',
+subText: 'Lorem ipsum',
+fontColor: Colors.white,
+background: Colors.blueAccent,
+onEnabledColor: Colors.green,
+onDisabledColor: Colors.redAccent,
+),
