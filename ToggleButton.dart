@@ -29,7 +29,7 @@ class ToggleButton extends StatefulWidget {
   final Color onDisabledColor;
 
   final VoidCallback onPressed;
-
+ToggleButton({Key key}):super(key : key)
   ToggleButton({
     this.fontSize,
     this.fontColor,
